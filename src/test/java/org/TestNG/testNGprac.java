@@ -51,4 +51,9 @@ public class testNGprac extends practise {
 	}
 	}
 	
+	@Test
+	private void Tcs4() {
+		System.out.println("i have created a method");
+	}
+	
 }
